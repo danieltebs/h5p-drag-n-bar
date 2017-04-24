@@ -1,0 +1,22 @@
+{
+  "libraryStrings": {
+    "englishTransformLabel": "Transform",
+    "transformLabel": "Objekteigenschaften",
+    "englishEditLabel": "Edit",
+    "editLabel": "Inhalt bearbeiten",
+    "englishLremoveLabel": "Remove",
+    "removeLabel": "Entfernen",
+    "englishBringToFrontLabel": "Bring to Front",
+    "bringToFrontLabel": "Nach vorne bringen",
+    "englishUnableToPaste": "Cannot paste this object. Unfortunately, the object you are trying to paste is not supported by this content type or version.",
+    "unableToPaste": "Das Objekt kann nicht eingefügt werden. Leider wird das Objekt, das Sie einfügen möchten, nicht von diesem Inhaltstyp oder dieser Version unterstützt.",
+    "englishSizeLabel": "Size",
+    "sizeLabel": "Größe",
+    "englishPositionLabel": "Position",
+    "positionLabel": "Position",
+    "englishHeightLabel": "Height",
+    "heightLabel": "Höhe",
+    "englishWidthLabel": "Width",
+    "widthLabel": "Breite"
+  }
+}
